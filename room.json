@@ -1,1 +1,21 @@
+{
+    "room":   "Medúzky CZ/SK",
+    "author": "Máro",
+    "css":    "https://rawgit.com/Maro1310/Meduzky/master/style.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot":    true,
+        "allowAutojoin":    true,
+        "allowAutograb":    true,
+        "allowSmartVote":   true,
+        "allowEmotes":      true,
+        "allowShowingMehs": true,
+        "forceSmartVote":   false
+    },
+    "images": {
+        "playback": null
+    },
+    "emotes": {
+    }
+}
 
