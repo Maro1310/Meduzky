@@ -1,7 +1,7 @@
 {
     "room":   "Medúzky CZ/SK",
     "author": "Máro",
-    "css":    "https://cdn.rawgit.com/Maro1310/Meduzky/2d607dbb/style.css",
+    "css":    "https://cdn.rawgit.com/Maro1310/Meduzky/85678c0f/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot":    true,
