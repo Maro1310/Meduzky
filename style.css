@@ -1,0 +1,9 @@
+/* --- room --- */
+
+#room .room-background {
+	background: url(https://i.imgur.com/dG5oizK.jpg) no-repeat !important;
+}
+
+#room-settings a:last-of-type {
+    	display: none !important;
+}
